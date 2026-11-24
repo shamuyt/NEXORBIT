@@ -12,6 +12,9 @@ It aims to demonstrate how a resource-constrained onboard system can detect abno
 > **Project Status:** Research prototype in development  
 > **Domain:** Embedded Systems | Aerospace Electronics | Fault Detection | Digital Twin | Autonomous Systems
 
+
+<img width="1916" height="893" alt="Screenshot 2026-11-24 113129" src="https://github.com/user-attachments/assets/2517ad4b-3182-4136-bdc0-ed72bfb8c3ca" />
+
 ---
 
 ## 📌 1. Project Overview
@@ -88,6 +91,8 @@ NEXORBIT uses a proposed three-stage diagnostic and recovery concept called **C3
 | React | Monitoring dashboard |
 | Three.js | 3D digital twin visualization |
 | SQLite / CSV | Telemetry and event storage |
+
+<img width="1911" height="890" alt="Screenshot 2026-11-24 113108" src="https://github.com/user-attachments/assets/ed9acb05-d315-4718-961e-dad8d916da68" />
 
 ---
 
@@ -222,7 +227,7 @@ NEXORBIT will be evaluated through controlled fault-injection experiments.
 
 Results will be measured during testing. Target values are not treated as achieved results until experimentally validated.
 
----
+<img width="1918" height="892" alt="Screenshot 2026-11-24 113214" src="https://github.com/user-attachments/assets/de6622a4-acac-4f94-b024-08e19be1cf7b" />
 
 ## 🛡️ 9. Safety Mechanisms
 
